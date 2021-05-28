@@ -21,7 +21,7 @@ Segue abaixo os componentes e o link do vídeo:
 9. Vaso com terra e planta
 10. Reservatório de água
 
-
+# Informações:
 A documentação do artigo está disponivel nesse repositorio, junto com o vídeo que foi publicado no YouTube e está disponivel em:
 
 
