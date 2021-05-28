@@ -3,9 +3,25 @@
 Sistema de irrigação inteligente:Saiba o momento ideal de irrigar suas plantas com esse projeto utilizando IOT.
 
 Esse trabalho descreve os problemas enfrentados por qualquer pessoa que não tem muita prática ou tempo, mas que gosta de planta,
-fazendo com que crie um sistema de monitoramento automático onde o solo será irrigado de acordo com a umidade da terra.
-Nesse repositorio possui todos os detalhes do projeto, desde a documentação, desenvolvimento, diagramas, fluxogramas, etc.
-O projeto foi desenvolvido no Software Arduino UNO, que é uma IDE especifica para arduino, onde é estabelecida nas linguagens C e C++
-Agora na automação do projeto, foi usado o protocolo MQTT, onde com a ajuda do sensor de umidade, ocoreu a medição da umidade do solo através de sensor. Além do arduino UNO e do sensor de umidade, utilizamos
-uma bomba d'gua, módulo relé, jumpers, fonte 12V, mangueira, planta e uma bacia como reservatório. Para um melhor entendimento do projeto, publicamos um vídeo de nossa autoria no Youtube. Segue o link: 
+fazendo com que crie um sistema de monitoramento automático onde o solo será irrigado de acordo com a umidade da terra.O uso da tecnologia no setor agrícola está crescendo cada vez mais, facilitando e melhorando a produtividade de vários tipos de culturas. Através do projeto, o manejo da irrigação irá ficar muito mais simplificado, trazendo um produto barato, preciso e acessível.
+Nesse repositorio possui todos os detalhes do projeto, desde a documentação do artigo, desenvolvimento, diagramas, fluxogramas, etc.
+O projeto foi desenvolvido no Software Arduino UNO, que é uma IDE especifica para arduino, onde é estabelecida nas linguagens C e C++.
+Segue abaixo os componentes e o código:
+
+# Componentes:
+
+1. Arduino UNO
+2. Sensor de solo
+3. 1x módulo relé 5v
+4. Jumpers (Jumpers Fêmea/Fêmea ; Jumpers Macho/Fêmea ; Jumpers Macho/Macho)
+5. Mini bomba de água RS-385
+6. Mangueira de aquário
+7. Protoboard 400 pinos
+8. Fonte de alimentação 12V
+9. Vaso com terra e planta
+10. Reservatório de água
+
+# Código:
+
+
 
