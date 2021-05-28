@@ -5,8 +5,8 @@ Sistema de irrigação inteligente:Saiba o momento ideal de irrigar suas plantas
 Esse trabalho descreve os problemas enfrentados por qualquer pessoa que não tem muita prática ou tempo, mas que gosta de planta,
 fazendo com que crie um sistema de monitoramento automático onde o solo será irrigado de acordo com a umidade da terra.O uso da tecnologia no setor agrícola está crescendo cada vez mais, facilitando e melhorando a produtividade de vários tipos de culturas. Através do projeto, o manejo da irrigação irá ficar muito mais simplificado, trazendo um produto barato, preciso e acessível.
 Nesse repositorio possui todos os detalhes do projeto, desde a documentação do artigo, desenvolvimento, diagramas, fluxogramas, etc.
-O projeto foi desenvolvido no Software Arduino UNO, que é uma IDE especifica para arduino, onde é estabelecida nas linguagens C e C++.
-Segue abaixo os componentes e o código:
+O projeto foi desenvolvido no Software Arduino IDE, que é uma IDE especifica para arduino, onde é estabelecida nas linguagens  C++ e C.
+Segue abaixo os componentes e o link do vídeo:
 
 # Componentes:
 
@@ -21,7 +21,7 @@ Segue abaixo os componentes e o código:
 9. Vaso com terra e planta
 10. Reservatório de água
 
-# Código:
 
+A documentação do artigo está disponivel nesse repositorio, junto com o vídeo que foi publicado no YouTube e está disponivel em:
 
 
