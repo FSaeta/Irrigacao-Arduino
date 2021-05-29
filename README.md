@@ -22,6 +22,6 @@ Segue abaixo os componentes e o link do vídeo:
 10. Reservatório de água
 
 # Informações:
-A documentação do artigo está disponivel nesse repositorio, junto com o vídeo que foi publicado no YouTube e está disponivel em:
+A documentação do artigo está disponivel nesse repositorio, junto com o vídeo que foi publicado no YouTube e está disponivel em: https://www.youtube.com/watch?v=e6UID88qZhI
 
 
